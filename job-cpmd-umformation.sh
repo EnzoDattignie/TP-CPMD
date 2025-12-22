@@ -1,0 +1,32 @@
+#!/bin/bash
+#SBATCH --job-name cpmd
+#SBATCH --output cpmd%j.out
+#SBATCH --error=cpmd_fm2pn_%j.err
+#SBATCH --nodes=1
+#SBATCH --ntasks=1
+#SBATCH --cpus-per-task=1
+#SBATCH --time=04:00:00
+#SBATCH --partition=cpu-dedicated
+#SBATCH --account=dedicated-cpu@umformation
+
+module purge
+module load deprecated 
+module load cv-standard/gcc/6.1.0
+module load cv-standard/lapack/3.6.1
+module load cv-standard/fftw3
+module load cv-standard/fftw2
+module load cv-standard/blas/3.6.0
+
+
+module list
+
+echo "Running on: $SLURM_NODELIST"
+echo "SLURM_NTASKS=$SLURM_NTASKS"
+echo "SLURM_CPUS_PER_TASK=$SLURM_CPUS_PER_TASK"
+echo "SLURM_NNODES=$SLURM_NNODES"
+echo "SLURM_CPUS_ON_NODE=$SLURM_CPUS_ON_NODE"
+echo "------------------------------------------------------"
+echo "M2 PhysNum -  TP Code CPMD " 
+~/scratch_f_m2pn/tp-abinitio-cpmd/cpmd/bin/cpmd_seq.x ./input/h2o-pbc-dyna.inp ~/scratch_f_m2pn/tp-abinitio-cpmd/cpmd/pseudo/  > output-test1
+
+

@@ -1,0 +1,800 @@
+           2
+ STEP:           1
+ H      0.371194      0.000639      0.000693
+ H     -0.371194     -0.000639     -0.000693
+           2
+ STEP:           2
+ H      0.371509      0.001271      0.001378
+ H     -0.371509     -0.001271     -0.001378
+           2
+ STEP:           3
+ H      0.371939      0.001897      0.002056
+ H     -0.371939     -0.001897     -0.002056
+           2
+ STEP:           4
+ H      0.372475      0.002519      0.002730
+ H     -0.372475     -0.002519     -0.002730
+           2
+ STEP:           5
+ H      0.373110      0.003141      0.003403
+ H     -0.373110     -0.003141     -0.003403
+           2
+ STEP:           6
+ H      0.373837      0.003762      0.004077
+ H     -0.373837     -0.003762     -0.004077
+           2
+ STEP:           7
+ H      0.374651      0.004387      0.004754
+ H     -0.374651     -0.004387     -0.004754
+           2
+ STEP:           8
+ H      0.375543      0.005012      0.005431
+ H     -0.375543     -0.005012     -0.005431
+           2
+ STEP:           9
+ H      0.376508      0.005643      0.006115
+ H     -0.376508     -0.005643     -0.006115
+           2
+ STEP:          10
+ H      0.377536      0.006270      0.006794
+ H     -0.377536     -0.006270     -0.006794
+           2
+ STEP:          11
+ H      0.378623      0.006909      0.007487
+ H     -0.378623     -0.006909     -0.007487
+           2
+ STEP:          12
+ H      0.379752      0.007531      0.008161
+ H     -0.379752     -0.007531     -0.008161
+           2
+ STEP:          13
+ H      0.380927      0.008186      0.008871
+ H     -0.380927     -0.008186     -0.008871
+           2
+ STEP:          14
+ H      0.382118      0.008788      0.009523
+ H     -0.382118     -0.008788     -0.009523
+           2
+ STEP:          15
+ H      0.383352      0.009483      0.010276
+ H     -0.383352     -0.009483     -0.010276
+           2
+ STEP:          16
+ H      0.384571      0.010017      0.010855
+ H     -0.384571     -0.010017     -0.010855
+           2
+ STEP:          17
+ H      0.385896      0.010836      0.011743
+ H     -0.385896     -0.010836     -0.011743
+           2
+ STEP:          18
+ H      0.387257      0.011171      0.012106
+ H     -0.387257     -0.011171     -0.012106
+           2
+ STEP:          19
+ H      0.389336      0.012366      0.013401
+ H     -0.389336     -0.012366     -0.013401
+           2
+ STEP:          20
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          21
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          22
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          23
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          24
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          25
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          26
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          27
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          28
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          29
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          30
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          31
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          32
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          33
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          34
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          35
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          36
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          37
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          38
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          39
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          40
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          41
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          42
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          43
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          44
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          45
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          46
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          47
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          48
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          49
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          50
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          51
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          52
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          53
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          54
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          55
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          56
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          57
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          58
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          59
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          60
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          61
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          62
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          63
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          64
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          65
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          66
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          67
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          68
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          69
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          70
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          71
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          72
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          73
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          74
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          75
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          76
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          77
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          78
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          79
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          80
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          81
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          82
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          83
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          84
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          85
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          86
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          87
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          88
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          89
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          90
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          91
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          92
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          93
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          94
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          95
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          96
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          97
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          98
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:          99
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         100
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         101
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         102
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         103
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         104
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         105
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         106
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         107
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         108
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         109
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         110
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         111
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         112
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         113
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         114
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         115
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         116
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         117
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         118
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         119
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         120
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         121
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         122
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         123
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         124
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         125
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         126
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         127
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         128
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         129
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         130
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         131
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         132
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         133
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         134
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         135
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         136
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         137
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         138
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         139
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         140
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         141
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         142
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         143
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         144
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         145
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         146
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         147
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         148
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         149
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         150
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         151
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         152
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         153
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         154
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         155
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         156
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         157
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         158
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         159
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         160
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         161
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         162
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         163
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         164
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         165
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         166
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         167
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         168
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         169
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         170
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         171
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         172
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         173
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         174
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         175
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         176
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         177
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         178
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         179
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         180
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         181
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         182
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         183
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         184
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         185
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         186
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         187
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         188
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         189
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         190
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         191
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         192
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         193
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         194
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         195
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         196
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         197
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         198
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         199
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN
+           2
+ STEP:         200
+ H           NaN           NaN           NaN
+ H           NaN           NaN           NaN

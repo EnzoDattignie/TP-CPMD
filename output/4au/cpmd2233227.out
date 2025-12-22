@@ -1,0 +1,15 @@
+
+Currently Loaded Modules:
+  1) deprecated                 4) cv-standard/fftw3/3.3.8-test
+  2) cv-standard/gcc/6.1.0      5) cv-standard/fftw2/2.1.5
+  3) cv-standard/lapack/3.6.1   6) cv-standard/blas/3.6.0
+
+ 
+
+Running on: io-cpu-20
+SLURM_NTASKS=1
+SLURM_CPUS_PER_TASK=1
+SLURM_NNODES=1
+SLURM_CPUS_ON_NODE=1
+------------------------------------------------------
+M2 PhysNum -  TP Code CPMD 
